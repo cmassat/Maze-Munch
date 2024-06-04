@@ -1,0 +1,6 @@
+.include "eat_dot.asm"
+.include "eat_ghost.asm"
+.include "siren.asm"
+.include "start.asm"
+.include "eat_pp.asm"
+.include "eat_pacman.asm"
